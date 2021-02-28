@@ -1,4 +1,4 @@
-# :point_right: Mechanical Engineer does head jump into Software Development
+# :point_right: Mechanical Engineer does head jump into Software
 
 ## Hello folks! 👋
 My name is Joana and I am a Mechanical Engineer who took the crazy decision of diving into Software.
