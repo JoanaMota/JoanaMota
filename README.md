@@ -18,6 +18,6 @@ Crazy but not going back :muscle:
 ![](https://img.shields.io/badge/Language-TypeSscript-informational?style=for-the-badge&logo=TypeScript&logoColor=black&color=orange)
 
 # :chart_with_upwards_trend: GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=JoanaMota&theme=calm&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JoanaMota&theme=darcula&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaMota&layout=compact&theme=calm)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaMota&layout=compact&theme=darcula)
