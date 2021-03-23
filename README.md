@@ -11,7 +11,7 @@ Crazy but not going back :muscle:
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/Framework-ROS-informational?style=for-the-badge&logo=ROS&logoColor=black&color=orange)
 
-![](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo='C++'&logoColor=black&color=orange)
+![](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=C&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=black&color=orange)
