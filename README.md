@@ -11,11 +11,11 @@ Crazy but not going back :muscle:
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/Framework-ROS-informational?style=for-the-badge&logo=ROS&logoColor=black&color=orange)
 
-![](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logo='C++'&logoColor=black&color=orange)
-![](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=C&logoColor=black&color=orange)
-![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=Python&logoColor=black&color=orange)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=black&color=orange)
-![](https://img.shields.io/badge/Language-TypeSscript-informational?style=for-the-badge&logo=TypeScript&logoColor=black&color=orange)
+![](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo='C++'&logoColor=black&color=orange)
+![](https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=C&logoColor=black&color=orange)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=black&color=orange)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=black&color=orange)
+![](https://img.shields.io/badge/-TypeSscript-informational?style=for-the-badge&logo=TypeScript&logoColor=black&color=orange)
 
 # :chart_with_upwards_trend: GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoanaMota&theme=darcula&show_icons=true&count_private=true)
