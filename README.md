@@ -7,8 +7,13 @@ Crazy but not going back :muscle:
 ## What am I currently up to...
 - :oncoming_automobile: Learning about Autonomous Driving. 
 [Checkout my notes and exercises here](https://github.com/JoanaMota/SelfDrivingCars)
-- Always practicing and increasing my knowledge in C++. [Checkout my implementation and notes on Advanced C++ Courses](https://github.com/JoanaMota/LearnCPP)
-- Learning about Design Patterns [Checkout my implementations from the book Head First Design Patterns: A Brain-Friendly Guide](https://github.com/JoanaMota/DesignPatterns)
+- :computer: Always practicing and increasing my knowledge in C++. [Checkout my implementation and notes on Advanced C++ Courses](https://github.com/JoanaMota/LearnCPP)
+- :orange_book: Learning about Design Patterns [Checkout my implementations from the book Head First Design Patterns: A Brain-Friendly Guide](https://github.com/JoanaMota/DesignPatterns)
+
+:cloud: I also enjoy learning about Web Development and when I learned about the services provided by `AWS` I started learning about Serverless Applications.
+I have been creating some applications for topics that I am interested at the moment and learn the theory at the same time.
+- [Simple Investment Calculator App](https://github.com/JoanaMota/invest_calculator)
+- App to track all your car maintenance
 
 # :wrench: Languages and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=black&color=orange)
@@ -18,6 +23,7 @@ Crazy but not going back :muscle:
 ![](https://img.shields.io/badge/Framework-ROS-informational?style=for-the-badge&logo=ROS&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=black&color=orange)
+![](https://img.shields.io/badge/Library-OpenCV-informational?style=for-the-badge&logo=opencv&logoColor=black&color=orange)
 
 ![](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=C&logoColor=black&color=orange)
