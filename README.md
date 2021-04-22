@@ -4,6 +4,12 @@
 My name is Joana and I am a Mechanical Engineer who took the crazy decision of diving into Software.
 Crazy but not going back :muscle:
 
+## What am I currently up to...
+- :oncoming_automobile: Learning about Autonomous Driving. 
+[Checkout my notes and exercises here](https://github.com/JoanaMota/SelfDrivingCars)
+- Always practicing and increasing my knowledge in C++. [Checkout my implementation and notes on Advanced C++ Courses](https://github.com/JoanaMota/LearnCPP)
+- Learning about Design Patterns [Checkout my implementations from the book Head First Design Patterns: A Brain-Friendly Guide](https://github.com/JoanaMota/DesignPatterns)
+
 # :wrench: Languages and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=black&color=orange)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&logoColor=black&color=orange)
