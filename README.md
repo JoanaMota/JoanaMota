@@ -7,7 +7,7 @@ Crazy but not going back :muscle:
 ## What am I currently up to...
 - :oncoming_automobile: Learning about Autonomous Driving. 
 [Checkout my notes and exercises here](https://github.com/JoanaMota/SelfDrivingCars)
-- :computer: Always practicing and increasing my knowledge in C++. [Checkout my implementation and notes on Advanced C++ Courses](https://github.com/JoanaMota/LearnCPP)
+- :computer: Always practicing and increasing my knowledge in C++. [Checkout my notes here](https://github.com/JoanaMota/LearnCPP)
 - :orange_book: Learning about Design Patterns [Checkout my implementations from the book Head First Design Patterns: A Brain-Friendly Guide](https://github.com/JoanaMota/DesignPatterns)
 - Develop my TDD mindset [Chekout my small project using CMake and GTest](https://github.com/JoanaMota/TDD_GTest)
 
