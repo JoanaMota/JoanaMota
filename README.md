@@ -5,6 +5,7 @@ My name is Joana and I am a Mechanical Engineer who took the crazy decision of d
 Crazy but not going back :muscle:
 
 ## What am I currently up to...
+- :eyes: Learning about [Computer Vision and Deep Learning](https://github.com/JoanaMota/LearnComputerVision). 
 - :oncoming_automobile: Learning about Autonomous Driving. 
 [Checkout my notes and exercises here](https://github.com/JoanaMota/SelfDrivingCars)
 - :computer: Always practicing and increasing my knowledge in C++. [Checkout my notes here](https://github.com/JoanaMota/LearnCPP)
